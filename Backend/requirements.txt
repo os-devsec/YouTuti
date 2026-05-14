@@ -1,0 +1,13 @@
+fastapi[standard]
+
+sqlmodel
+psycopg2-binary
+python-jose
+passlib
+bcrypt
+
+pydantic
+pydantic-settings
+
+python-multipart
+python-dotenv
